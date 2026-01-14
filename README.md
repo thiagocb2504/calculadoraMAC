@@ -1,6 +1,6 @@
 # 🧮 Calculadora em Java
 
-Projeto de uma calculadora desenvolvida em Java utilizando **Swing**, com organização baseada no padrão **MVC**.
+Projeto de uma calculadora desenvolvida em Java utilizando **Swing**.
 
 ## 📌 Funcionalidades
 - Operações básicas: soma, subtração, multiplicação e divisão
